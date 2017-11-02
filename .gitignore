@@ -1,0 +1,7 @@
+#过滤文件/文件夹
+_book
+node_modules
+*.bat
+*.mobi
+.DS_Store
+.DS_Store
