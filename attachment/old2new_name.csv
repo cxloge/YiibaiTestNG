@@ -1,0 +1,15 @@
+old_name,new_name
+TestNG_HelloWorld入门示例.md,001.TestNG_HelloWorld入门示例.md
+TestNG_基本注解.md,002.TestNG_基本注解.md
+TestNG_配置注解实例.md,003.TestNG_配置注解实例.md
+TestNG_预期异常测试.md,004.TestNG_预期异常测试.md
+TestNG_忽略测试.md,005.TestNG_忽略测试.md
+TestNG_超时测试.md,006.TestNG_超时测试.md
+TestNG_分组测试.md,007.TestNG_分组测试.md
+TestNG_套件测试.md,008.TestNG_套件测试.md
+TestNG_依赖测试.md,009.TestNG_依赖测试.md
+TestNG_参数化测试.md,010.TestNG_参数化测试.md
+TestNG_参数测试实例.md,011.TestNG_参数测试实例.md
+TestNG_Selenium负载测试.md,012.TestNG_Selenium负载测试.md
+TestNG_Spring集成测试.md,013.TestNG_Spring集成测试.md
+JUnit4_Vs_TestNG比较.md,014.JUnit4_Vs_TestNG比较.md
